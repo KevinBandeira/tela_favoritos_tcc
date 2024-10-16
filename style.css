@@ -30,7 +30,7 @@ body {
     display: flex;
     align-items: end;
     color: #184DAB; 
-    font-size: 3.21vh; /* 24px */
+    font-size: 2.5vh; /* 24px */
 }
 
 .container-itens {
@@ -183,7 +183,7 @@ h2 {
     }
 
     .fav {
-        font-size: 2.28vh; /* 17px */
+        font-size: 1.5vh; /* 17px */
     }
 
     h5 {
@@ -205,5 +205,6 @@ h2 {
 
     .container-button i {
         font-size: 2.94vh; /* 22px */
+        cursor: pointer;
     }
 }
